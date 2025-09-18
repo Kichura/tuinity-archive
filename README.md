@@ -6,3 +6,6 @@ I have no interests in 1.8.x server software in general mainly due to the fact t
 
 # Where to get
 You can get the JAR by heading to the [releases page](https://github.com/Kichura/tuinity-archive/releases) where the changelogs are also stored at.
+
+# Configuration Wiki
+The documentation for `tuinity.yml` can be found [here](https://github.com/Tuinity/Tuinity/wiki/Config).
